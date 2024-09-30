@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    font-family: "inter";
+}
+
+#titulo-menusuperior{
+    
+    color: #ffff;
+    font-size: 60px;
+    margin-top: 120px;
+    margin-left: 60px;
+}
+
+#texto-menusuperior{
+    color: #ffff;
+    font-size: 22px;
+    margin-left: 62px;
+    margin-bottom: 100px;
+    padding-top: 15px;
+}
+
+#menusuperior{
+    background-color: #303030;
+    display: grid;
+}
+
+#menuinformativo{
+    background-color: #f9f9f9;
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.numero{
+    height: 35%;
+    margin-left: 120px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+
+#secaoinformativo{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#titulo-secaoinformativo{
+    margin-top: 200px;
+    margin-left:-1200px;
+    font-size:37px;
+}
+
+#texto-secaoinformativo{
+    margin-left: -1200px;
+    font-size: x-large;
+}
+
+#imagem{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 740px;
+    height: 510px;
+    width: 605px;
+}
+
+#formulario{
+    background-color: #303030;
+    text-align: center;
+}
+
+#texto-formulario{
+    color: #ffff;
+    position: absolute;
+    padding-top: 70px;
+    margin-left: 32%;
+    
+
+}
+
+input{
+    background-color: #ffff;
+    width: 400px;
+    height: 50px;
+    margin: 25px;
+    border-radius: 6px;
+    padding-left: 20px;
+    border: 0px;
+}
+button{
+    background-color: #c07212;
+    width: 250px;
+    height: 50px;
+    margin: 50px;
+    border-radius: 6px;
+    border: 0px;
+    color: #ffff;
+    margin-bottom: 50px;
+    font-size: 22px;
+    font-family: raleway;
+    font-weight: bolder;
+    cursor: pointer;
+ }
