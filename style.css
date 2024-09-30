@@ -39,26 +39,23 @@
 
 
 #secaoinformativo{
-    display: grid;
-    grid-auto-flow: column;
-    columns: auto;
 }
 
 #titulo-secaoinformativo{
     margin-top: 200px;
-    margin-left:-1200px;
+    margin-left:100px;
     font-size:37px;
 }
 
 #texto-secaoinformativo{
-    margin-left: -1200px;
+    margin-left: 100px;
     font-size: x-large;
 }
 
 #imagem{
-    margin-top: 50px;
+    margin-top: -370px;
     margin-bottom: 50px;
-    margin-left: 740px;
+    margin-left: 55%;
     height: 510px;
     width: 605px;
 }
